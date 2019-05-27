@@ -1,3 +1,3 @@
 # appello-python-test-task
-запуска скрипта
+запуск скрипта
 python ./script.pt <имя директории>
